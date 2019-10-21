@@ -105,13 +105,14 @@
     var settings = {
       // Images (in the format of 'url': 'alignment').
       images: {
-        'images/bg01.jpg': 'center',
-        'images/bg04.jpg': 'center',
-        'images/bg05.jpg': 'center',
-        'images/bg07.jpg': 'center',
-        'images/bg06.jpg': 'center',
-        'images/bg02.jpg': 'center',
-        'images/bg03.jpg': 'center'
+        'images/dist/bg09.jpg': 'center',
+        'images/dist/bg01.jpg': 'center',
+        'images/dist/bg04.jpg': 'center',
+        'images/dist/bg05.jpg': 'center',
+        'images/dist/bg07.jpg': 'center',
+        'images/dist/bg06.jpg': 'center',
+        'images/dist/bg02.jpg': 'center',
+        'images/dist/bg03.jpg': 'center'
       },
 
       // Delay.
